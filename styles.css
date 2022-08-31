@@ -45,12 +45,13 @@ body {
 }
 
 h1 {
-  background-image: linear-gradient(#ff3385, #ff0066);
+  background-color: #002449;
   margin: 30px;
   padding-bottom: 10px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 3px 4px #000000;
   font-size: 5rem;
+  font-weight: 100;
   color: #4ECCA3;
 }
 
