@@ -39,7 +39,8 @@
 }
 
 body {
-  background-color: ##000505;
+    height: 94vh;
+    background-image: linear-gradient(206deg, #e6fffb, #43eeff);
 
 }
 
